@@ -1,6 +1,6 @@
 <!-- <p align="center">
 <img width="200" height="230" alt="image" src="https://github.com/xmm16/xmm16.github.io/blob/main/timeworm.png?raw=true" /></p> -->
-<h3 align="center"><b >Timeworm</b></h3>
+<h3 align="center"><b>Wherefore Timeworm?</b></h3>
 
 A compiler that knows your code on an initialization-variable-name basis to time-travel which results in a type-based butterfly effect!
 
