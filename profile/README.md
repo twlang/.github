@@ -1,6 +1,6 @@
 <!-- <p align="center">
 <img width="200" height="230" alt="image" src="https://github.com/xmm16/xmm16.github.io/blob/main/timeworm.png?raw=true" /></p> -->
-<h3 align="center"><b>Wherefore Timeworm?</b></h3>
+<h3 align="center"><b>Why Timeworm?</b></h3>
 
 > _A time-traveling compiler with a butterfly-effect type system that knows your code on a first-name basis?_
 
