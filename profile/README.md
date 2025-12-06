@@ -2,7 +2,7 @@
 <img width="200" height="230" alt="image" src="https://github.com/xmm16/xmm16.github.io/blob/main/timeworm.png?raw=true" /></p> -->
 <h3 align="center"><b>Wherefore Timeworm?</b></h3>
 
-A compiler that knows your code on an initialization-variable-name basis to time-travel which results in a type-based butterfly effect!
+Timeworm is a compiler that knows your code on an initialization-variable-name basis to time-travel which results in a type-based butterfly effect!
 
 #### What that actually means
 Say we have a string that you add and remove a ton of other strings and characters to
