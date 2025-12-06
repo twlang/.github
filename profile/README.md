@@ -29,3 +29,6 @@ example += "world!"; // example = "hello world!"
 print(example.length);
 ```
 If the compiler never sees you request the length of a string (or an alias/slice of a string, because the compiler knows your code on an initialization-name-basis), it just won't keep track. However, if it does, it'll go back (or time travel) and change the type (leading to a type-based butterfly effect).
+
+#### So?
+This might seem like a nearly useless optimization, and it kinda is, but we've mercilessly abused these fairly simple effects to build a completely memory-safe and extremely fast language, all while being simple, clean, and mostly consistent.
