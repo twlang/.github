@@ -2,7 +2,7 @@
 <img width="200" height="230" alt="image" src="https://github.com/xmm16/xmm16.github.io/blob/main/timeworm.png?raw=true" /></p> -->
 <h3 align="center"><b>Wherefore Timeworm?</b></h3>
 
-Timeworm is a compiler that knows your code on an initialization-variable-name basis to time-travel which results in a type-based butterfly effect!
+Timeworm is a compiler that knows your code on an first-name basis to time-travel, which results in a type-based butterfly effect!
 
 #### What that actually means
 Say we have a string that you add and remove a ton of other strings and characters to
@@ -28,7 +28,7 @@ example += ' ';
 example += "world!"; // example = "hello world!"
 print(example.length);
 ```
-If the compiler never sees you request the length of a string (or an alias/slice of a string, because the compiler knows your code on an initialization-name-basis), it just won't keep track. However, if it does, it'll go back (or time travel) and change the type (leading to a type-based butterfly effect).
+If you never request the length of a string (or an alias/slice of a string, since the compiler keeps track of those by referring to them as variations of a variable's "first-name"), the compiler just won't keep track of it. However, if you do, the compiler will go back (or time travel) and change the type (leading to a butterfly effect).
 
 #### So?
-This might seem like a nearly useless optimization, and it kinda is, but we've mercilessly abused these fairly simple effects to build a completely memory-safe and extremely fast language, all while being simple, clean, and mostly consistent.
+This might seem like a silly optimization, and it kinda is, but we've mercilessly abused these fairly simple effects to build a completely memory-safe and extremely fast language, all while being fun, clean, and mostly consistent.
