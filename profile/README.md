@@ -22,7 +22,7 @@ print(example.length());
 ```
 Most languages will keep track of the length and return it, which is extremely optimized, but we've decided to do something different. 
 ```cpp
-s̶t̶r̶i̶n̶g̶ string_with_counter example = "hello!";
+s̶t̶r̶i̶n̶g̶ string_with_counter example = "hello!"; // (the user's code won't change, but the type of the string in the immediate representation will)
 example = example[0, -1]; // every operator is now overloaded to track length updates
 example += ' ';
 example += "world!"; // example = "hello world!"
